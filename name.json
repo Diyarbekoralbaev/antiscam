@@ -1,0 +1,376 @@
+{
+    "data": {
+        "report": {
+            "host": "awdarma.uz",
+            "blacklists": {
+                "engines": {
+                    "7": {
+                        "engine": "AZORult Tracker",
+                        "detected": false,
+                        "reference": "https:\/\/azorult-tracker.net\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "5": {
+                        "engine": "AntiSocial Blacklist",
+                        "detected": false,
+                        "reference": "https:\/\/theantisocialengineer.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "6": {
+                        "engine": "Artists Against 419",
+                        "detected": false,
+                        "reference": "http:\/\/wiki.aa419.org\/index.php\/Main_Page",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "8": {
+                        "engine": "Badbitcoin",
+                        "detected": false,
+                        "reference": "https:\/\/badbitcoin.org\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "9": {
+                        "engine": "Bambenek Consulting",
+                        "detected": false,
+                        "reference": "https:\/\/www.bambenekconsulting.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "11": {
+                        "engine": "CERT Polska",
+                        "detected": false,
+                        "reference": "https:\/\/www.cert.pl\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "14": {
+                        "engine": "CRDF",
+                        "detected": false,
+                        "reference": "https:\/\/threatcenter.crdf.fr\/check.html",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "10": {
+                        "engine": "C_APT_ure",
+                        "detected": false,
+                        "reference": "http:\/\/c-apt-ure.blogspot.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "12": {
+                        "engine": "Chong Lua Dao",
+                        "detected": false,
+                        "reference": "https:\/\/chongluadao.vn\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "13": {
+                        "engine": "CoinBlockerLists",
+                        "detected": false,
+                        "reference": "https:\/\/gitlab.com\/ZeroDot1\/CoinBlockerLists\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "15": {
+                        "engine": "CryptoScamDB",
+                        "detected": false,
+                        "reference": "https:\/\/cryptoscamdb.org\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "16": {
+                        "engine": "CyberCrime",
+                        "detected": false,
+                        "reference": "https:\/\/cybercrime-tracker.net\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "17": {
+                        "engine": "EtherAddressLookup",
+                        "detected": false,
+                        "reference": "https:\/\/github.com\/409H\/EtherAddressLookup\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "18": {
+                        "engine": "EtherScamDB",
+                        "detected": false,
+                        "reference": "https:\/\/etherscamdb.info\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "19": {
+                        "engine": "Fake Website Buster",
+                        "detected": false,
+                        "reference": "https:\/\/fakewebsitebuster.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "20": {
+                        "engine": "HijackedUrls",
+                        "detected": false,
+                        "reference": "https:\/\/www.hijackedurls.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "21": {
+                        "engine": "MetaMask EthPhishing",
+                        "detected": false,
+                        "reference": "https:\/\/github.com\/MetaMask\/eth-phishing-detect\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "22": {
+                        "engine": "NABP Not Recommended Sites",
+                        "detected": false,
+                        "reference": "https:\/\/safe.pharmacy\/buy-safely\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "23": {
+                        "engine": "OpenPhish",
+                        "detected": false,
+                        "reference": "https:\/\/openphish.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "24": {
+                        "engine": "PetScams",
+                        "detected": false,
+                        "reference": "https:\/\/petscams.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "27": {
+                        "engine": "PhishFeed",
+                        "detected": false,
+                        "reference": "https:\/\/phishfeed.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "25": {
+                        "engine": "PhishFort",
+                        "detected": false,
+                        "reference": "https:\/\/www.phishfort.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "28": {
+                        "engine": "PhishStats",
+                        "detected": false,
+                        "reference": "https:\/\/phishstats.info\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "29": {
+                        "engine": "PhishTank",
+                        "detected": false,
+                        "reference": "https:\/\/www.phishtank.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "0": {
+                        "engine": "Phishing Test",
+                        "detected": false,
+                        "reference": "https:\/\/www.novirusthanks.org\/",
+                        "confidence": "low",
+                        "elapsed": "0.10"
+                    },
+                    "26": {
+                        "engine": "Phishing.Database",
+                        "detected": false,
+                        "reference": "https:\/\/github.com\/mitchellkrogza\/Phishing.Database",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "30": {
+                        "engine": "Phishunt",
+                        "detected": false,
+                        "reference": "https:\/\/phishunt.io\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "31": {
+                        "engine": "Quttera",
+                        "detected": false,
+                        "reference": "https:\/\/quttera.com\/home",
+                        "confidence": "low",
+                        "elapsed": "0.00"
+                    },
+                    "32": {
+                        "engine": "RPiList Not Serious",
+                        "detected": false,
+                        "reference": "https:\/\/github.com\/RPiList\/specials",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "1": {
+                        "engine": "Scam Test",
+                        "detected": false,
+                        "reference": "https:\/\/www.novirusthanks.org\/",
+                        "confidence": "low",
+                        "elapsed": "0.00"
+                    },
+                    "33": {
+                        "engine": "SecureReload Phishing List",
+                        "detected": false,
+                        "reference": "https:\/\/securereload.tech\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "2": {
+                        "engine": "Sinkholed Domain",
+                        "detected": false,
+                        "reference": "https:\/\/www.novirusthanks.org\/",
+                        "confidence": "low",
+                        "elapsed": "0.00"
+                    },
+                    "34": {
+                        "engine": "Spam404",
+                        "detected": false,
+                        "reference": "https:\/\/www.spam404.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "35": {
+                        "engine": "StopGunScams",
+                        "detected": false,
+                        "reference": "https:\/\/stopgunscams.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "3": {
+                        "engine": "Suspicious Hosting IP",
+                        "detected": false,
+                        "reference": "https:\/\/www.novirusthanks.org\/",
+                        "confidence": "low",
+                        "elapsed": "0.00"
+                    },
+                    "39": {
+                        "engine": "Threat Sourcing",
+                        "detected": false,
+                        "reference": "https:\/\/www.threatsourcing.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "36": {
+                        "engine": "ThreatCrowd",
+                        "detected": false,
+                        "reference": "https:\/\/www.threatcrowd.org\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "37": {
+                        "engine": "ThreatFox",
+                        "detected": false,
+                        "reference": "https:\/\/threatfox.abuse.ch\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "38": {
+                        "engine": "ThreatLog",
+                        "detected": false,
+                        "reference": "https:\/\/www.threatlog.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "40": {
+                        "engine": "TweetFeed",
+                        "detected": false,
+                        "reference": "https:\/\/github.com\/0xDanielLopez\/TweetFeed",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "42": {
+                        "engine": "URLVir",
+                        "detected": false,
+                        "reference": "https:\/\/www.urlvir.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "41": {
+                        "engine": "URLhaus",
+                        "detected": false,
+                        "reference": "https:\/\/urlhaus.abuse.ch\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "44": {
+                        "engine": "VXVault",
+                        "detected": false,
+                        "reference": "http:\/\/vxvault.net\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "43": {
+                        "engine": "ViriBack C2 Tracker",
+                        "detected": false,
+                        "reference": "http:\/\/tracker.viriback.com\/",
+                        "confidence": "high",
+                        "elapsed": "0.00"
+                    },
+                    "4": {
+                        "engine": "urlQuery",
+                        "detected": false,
+                        "reference": "https:\/\/urlquery.net\/",
+                        "confidence": "high",
+                        "elapsed": "0.51"
+                    }
+                },
+                "detections": 0,
+                "engines_count": 45,
+                "detection_rate": "0%",
+                "scantime": "1.11"
+            },
+            "server": {
+                "ip": "162.55.134.175",
+                "reverse_dns": "server2.ahost.cloud",
+                "continent_code": "EU",
+                "continent_name": "Europe",
+                "country_code": "DE",
+                "country_name": "Germany",
+                "region_name": "Bayern",
+                "city_name": "Gunzenhausen",
+                "latitude": 48.32386016845703,
+                "longitude": 11.601018905639648,
+                "isp": "Hetzner Online GmbH",
+                "asn": "AS24940"
+            },
+            "category": {
+                "is_free_hosting": false,
+                "is_anonymizer": false,
+                "is_url_shortener": false,
+                "is_free_dynamic_dns": false,
+                "is_code_sandbox": false,
+                "is_form_builder": false,
+                "is_free_file_sharing": false,
+                "is_pastebin": false
+            },
+            "security_checks": {
+                "is_most_abused_tld": false,
+                "is_domain_ipv4_assigned": true,
+                "is_domain_ipv4_private": false,
+                "is_domain_ipv4_loopback": false,
+                "is_domain_ipv4_reserved": false,
+                "is_domain_ipv4_valid": true,
+                "is_domain_blacklisted": false,
+                "is_uncommon_host_length": false,
+                "is_uncommon_dash_char_count": false,
+                "is_uncommon_dot_char_count": false,
+                "website_popularity": "low",
+                "is_uncommon_clickable_domain": false,
+                "is_risky_category": false
+            },
+            "risk_score": {
+                "result": 0
+            }
+        }
+    },
+    "credits_remained": 24.92,
+    "estimated_queries": "311",
+    "elapsed_time": "1.32",
+    "success": true
+}
